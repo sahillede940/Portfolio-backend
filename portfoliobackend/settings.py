@@ -146,3 +146,7 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 REST_FRAMEWORK={
     
 }
+
+ALLOWED_HOSTS = [
+    "https://sahillede.vercel.app/"
+]
